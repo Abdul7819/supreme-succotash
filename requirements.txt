@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+requests
+folium
+streamlit_folium
+datetime
+rasterio
+xgboost
+lightgbm
+imblearn
